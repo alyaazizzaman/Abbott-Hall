@@ -1,7 +1,7 @@
 # Abbott-Hall
-An Ava Brown Adventure
+A Eula Blue Adventure
 
-Dearest Ava,   
+Dearest Eula,   
 
 I am trapped! They took me in the dead of night and threw me in a four-horse carriage. They keep me here in a dank room with a chain around my ankle.
 
