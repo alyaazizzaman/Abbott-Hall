@@ -14,3 +14,9 @@ body {
  padding: 71px;
  margin-top: 37px;
 }
+
+p {
+  font-family: 'Great Vibes', cursive;
+  font-size: 22px;
+  font-weight: bold;
+}
