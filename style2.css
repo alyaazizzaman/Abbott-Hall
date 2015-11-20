@@ -1,0 +1,21 @@
+
+
+body {
+  height: 1000px;
+  background-image: url("11235131183_8f4276d060_b.jpg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: #F2ECD1;
+}
+
+.knocker {
+  float: right;
+  border-radius: 50%;
+  background-color: white;
+  height: 375px;
+  width: 230px;
+  background-position: top;
+  background-image: url('11100251204_9d6d401791.jpg');
+  background-repeat: no-repeat;
+  margin-top: 40px;
+}
