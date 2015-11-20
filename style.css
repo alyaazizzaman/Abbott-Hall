@@ -5,3 +5,12 @@ body {
   background-position: top;
   background-color: #FEFFF1;
 }
+.letter {
+ height: 700px;
+ width: 500px;
+ background-color: #FEFFF1;
+ margin:auto;
+ opacity: 0.75;
+ padding: 71px;
+ margin-top: 37px;
+}
