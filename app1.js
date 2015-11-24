@@ -1,6 +1,5 @@
 $("body").click(function() {
   $(".letter").hide().fadeIn("slow");
-  console.log('hello');
 });
 
 $("body").click(function() {
@@ -8,7 +7,7 @@ $("body").click(function() {
   audioElement.setAttribute('src', 'NorthernIsles.ogg');
   audioElement.setAttribute('autoplay', 'autoplay');
 
-  $('.letter').click(
+  $("body").click(
     function() {
       audioElement.play();
     },
