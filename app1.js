@@ -12,7 +12,7 @@ $("body").click(function() {
       audioElement.play();
     },
     function() {
-        audioElement.pause();
+      audioElement.pause();
   });
 });
 
