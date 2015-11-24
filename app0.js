@@ -4,3 +4,13 @@ $(document).ready(function() {
   audioElement.setAttribute('autoplay', 'autoplay');
   audioElement.play();
 });
+
+$(document).ready(function() {
+  $("#subtitle").hide();
+});
+
+$(document).ready(function() {
+  $("#title").hide().fadeIn(4000, function() {
+    $("#subtitle").fadeIn(2000);
+  });
+});
