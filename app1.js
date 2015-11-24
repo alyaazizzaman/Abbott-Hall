@@ -3,6 +3,16 @@ $("body").click(function() {
   console.log('hello');
 });
 
+$("body").click(function() {
+  var audioElement = document.createElement('audio');
+  audioElement.setAttribute('src', 'NorthernIsles.ogg');
+  audioElement.setAttribute('autoplay', 'autoplay');
+
+  $('.letter').click(function() {
+      audioElement.play();
+  });
+});
+
 // set html p's to hidden
 
 // $(".letter").click(function() {
