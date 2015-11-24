@@ -2,6 +2,19 @@ $("body").click(function() {
   $(".letter").hide().fadeIn("slow");
 });
 
+// $(document).ready(function() {
+//   $("p").hide();
+// });
+//
+// $("body").click(function() {
+//   $(".letter").hide().fadeIn("slow", function(){
+//     $("#p1").click(function() {
+//       $fadeIn("slow");
+//     });
+//   });
+// });
+
+
 $("body").click(function() {
   var audioElement = document.createElement('audio');
   audioElement.setAttribute('src', 'NorthernIsles.ogg');
@@ -16,7 +29,7 @@ $("body").click(function() {
   });
 });
 
-// set html p's to hidden
+// set p's to hidden
 
 // $(".letter").click(function() {
 //   $("#p1").hide().fadeIn("slow");

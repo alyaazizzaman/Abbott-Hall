@@ -3,14 +3,26 @@ body {
 }
 
 h1 {
-  font-family: 'Fredericka the Great', cursive;  font-size: 130px;
+  font-family: 'Fredericka the Great';
+  font-size: 130px;
   text-align: center;
   margin-top: 200px;
   margin-bottom:31px;
 }
- h3 {
- font-family: 'Marck Script', cursive;
- text-align: center;
- font-size: 45px;
- margin-top: 22px;
- }
+
+h3 {
+  font-family: 'Marck Script';
+  text-align: center;
+  font-size: 45px;
+  margin-top: 22px;
+}
+
+p {
+  font-family: 'Fredericka the Great';
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

@@ -10,7 +10,13 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
+  $("#click").hide();
+});
+
+$(document).ready(function() {
   $("#title").hide().fadeIn(4000, function() {
-    $("#subtitle").fadeIn(2000);
+    $("#subtitle").fadeIn(2000, function() {
+      $("#click").fadeIn(2000);
+    });
   });
 });
