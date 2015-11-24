@@ -8,8 +8,12 @@ $("body").click(function() {
   audioElement.setAttribute('src', 'NorthernIsles.ogg');
   audioElement.setAttribute('autoplay', 'autoplay');
 
-  $('.letter').click(function() {
+  $('.letter').click(
+    function() {
       audioElement.play();
+    },
+    function() {
+        audioElement.pause();
   });
 });
 
