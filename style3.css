@@ -2,99 +2,94 @@ body {
   background-image: url("escheresque_ste.png");
 }
 
-.door1 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+.door {
+  margin: 10px;
+  padding: 5px;
 }
-.door2 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+
+.knob {
+  border-radius: 50%;
+  background-color: yellow;
+  height:15px;
+  width:15px;
 }
-.door3 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+
+.one {
+  background-color: #7B4A12;
+  height: 200px;
+  width: 150px;
+  float: right;
 }
-.door4 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+.first {
+  margin-top:95px;
+  float: right;
 }
-.door5 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+
+.two {
+  background-color: #BA6222;
+  height: 100px;
+  width: 100px;
 }
-.door6 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+.second {
+  margin-top: 40px;
 }
-.door7 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+
+.three {
+  height: 300px;
+  width: 175px;
+  background-color: #7B4A12;
 }
-.door8 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+.third {
+  margin-top: 130px;
+  float: right;
 }
-.door9 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+
+.four {
+  height: 200px;
+  width: 150px;
+  background-color: #E49135;
 }
-.door10 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+.fourth {
+  margin-top:85px;
 }
-.door11 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+
+.five {
+  background-color: #E49135;
+  height: 350px;
+  width: 100px;
+  float:right;
 }
-.door12 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+.fifth {
+  margin-top: 160px;
+  float:right;
 }
-.door13 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+
+.six {
+  height: 300px;
+  width: 150px;
+  float: right;
+  background-color: #7B4A12;
 }
-.door14 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+.sixth {
+  margin-top: 140px;
 }
-.door15 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+
+.seven {
+  background-color: #738F9B;
+  height: 200px;
+  width: 100px;
+  float:right;
 }
-.door16 {
-  height:40px;
-  width:50px;
-  background-color: brown;
-  margin: 20px;
+.seventh {
+  margin-top: 90px;
+  float:right;
+}
+
+.eight {
+  background-color: #BA6222;
+  height: 325px;
+  width: 150px;
+}
+.eighth {
+  margin-top: 155px;
 }
