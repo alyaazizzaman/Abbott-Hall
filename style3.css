@@ -10,6 +10,7 @@ body {
 .knob {
   border-radius: 50%;
   background-color: yellow;
+  border-bottom: 4px solid orange;
   height:15px;
   width:15px;
 }
@@ -19,6 +20,11 @@ body {
   height: 200px;
   width: 150px;
   float: right;
+  border-left: 10px solid #302402;
+  border-bottom: 10px solid #302402;
+  border-right: 10px solid #a07406;
+  border-top: 10px solid #a07406;
+  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
 }
 .first {
   margin-top:95px;
@@ -29,6 +35,11 @@ body {
   background-color: #BA6222;
   height: 100px;
   width: 100px;
+  border-left: 10px solid #723109;
+  border-bottom: 10px solid #723109;
+  border-right: 10px solid #f29860;
+  border-top: 10px solid #f29860;
+  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
 }
 .second {
   margin-top: 40px;
@@ -38,6 +49,11 @@ body {
   height: 300px;
   width: 175px;
   background-color: #7B4A12;
+  border-left: 10px solid #302402;
+  border-bottom: 10px solid #302402;
+  border-right: 10px solid #a07406;
+  border-top: 10px solid #a07406;
+  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
 }
 .third {
   margin-top: 130px;
@@ -48,6 +64,11 @@ body {
   height: 200px;
   width: 150px;
   background-color: #E49135;
+  border-left: 10px solid #634a09;
+  border-bottom: 10px solid #634a09;
+  border-right: 10px solid #ffd987;
+  border-top: 10px solid #ffd987;
+  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
 }
 .fourth {
   margin-top:85px;
@@ -58,6 +79,11 @@ body {
   height: 350px;
   width: 100px;
   float:right;
+  border-left: 10px solid #634a09;
+  border-bottom: 10px solid #634a09;
+  border-right: 10px solid #ffd987;
+  border-top: 10px solid #ffd987;
+  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
 }
 .fifth {
   margin-top: 160px;
@@ -69,6 +95,11 @@ body {
   width: 150px;
   float: right;
   background-color: #7B4A12;
+  border-left: 10px solid #302402;
+  border-bottom: 10px solid #302402;
+  border-right: 10px solid #a07406;
+  border-top: 10px solid #a07406;
+  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
 }
 .sixth {
   margin-top: 140px;
@@ -79,6 +110,11 @@ body {
   height: 200px;
   width: 100px;
   float:right;
+  border-left: 10px solid #0665a0;
+  border-bottom: 10px solid #0665a0;
+  border-right: 10px solid #a4e1f9;
+  border-top: 10px solid #a4e1f9;
+  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
 }
 .seventh {
   margin-top: 90px;
@@ -89,6 +125,11 @@ body {
   background-color: #BA6222;
   height: 325px;
   width: 150px;
+  border-left: 10px solid #723109;
+  border-bottom: 10px solid #723109;
+  border-right: 10px solid #f29860;
+  border-top: 10px solid #f29860;
+  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
 }
 .eighth {
   margin-top: 155px;

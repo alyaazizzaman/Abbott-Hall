@@ -1,0 +1,17 @@
+body {
+  height: 1000px;
+  background-image: url("11066324165_309bf7e575_b.jpg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: #FBEDC1;
+}
+
+div {
+  margin-top: 630px;
+}
+
+p {
+  text-align: center;
+  font-family: 'Fredericka the Great';
+  font-size: 25px;
+}
