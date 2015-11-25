@@ -16,3 +16,8 @@ p {
   font-family: 'Fredericka the Great';
   font-size: 25px;
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

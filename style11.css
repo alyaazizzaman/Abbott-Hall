@@ -1,0 +1,22 @@
+
+body {
+  height: 1000px;
+  background-color: #FCFAE1;
+}
+
+p {
+  text-align: center;
+  font-family: 'Fredericka the Great';
+  font-size: 25px;
+}
+
+.ten {
+  background-image: url("11298156955_8757b1b724_z.jpg");
+  background-position: bottom;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  width: 350px;
+  border-radius: 50%;
+}

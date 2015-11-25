@@ -24,7 +24,7 @@ body {
   border-bottom: 10px solid #302402;
   border-right: 10px solid #a07406;
   border-top: 10px solid #a07406;
-  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
+  box-shadow: 7px 6px 7px 0px  rgba(105,102,105,1);
 }
 .first {
   margin-top:95px;
@@ -53,7 +53,7 @@ body {
   border-bottom: 10px solid #302402;
   border-right: 10px solid #a07406;
   border-top: 10px solid #a07406;
-  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
+  box-shadow: 7px 6px 7px 0px  rgba(105,102,105,1);
 }
 .third {
   margin-top: 130px;
@@ -83,7 +83,7 @@ body {
   border-bottom: 10px solid #634a09;
   border-right: 10px solid #ffd987;
   border-top: 10px solid #ffd987;
-  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
+  box-shadow: 7px 6px 7px 0px  rgba(105,102,105,1);
 }
 .fifth {
   margin-top: 160px;
@@ -114,7 +114,7 @@ body {
   border-bottom: 10px solid #0665a0;
   border-right: 10px solid #a4e1f9;
   border-top: 10px solid #a4e1f9;
-  box-shadow: -6px 7px 7px 0px rgba(105,102,105,1);
+  box-shadow: 7px 6px 7px 0px  rgba(105,102,105,1);
 }
 .seventh {
   margin-top: 90px;

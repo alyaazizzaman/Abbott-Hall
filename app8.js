@@ -10,8 +10,8 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  $(".one").hide().fadeIn(9000, function() {
-    $(".two").fadeIn(6000, function() {
+  $(".one").hide().fadeIn(6000, function() {
+    $(".two").fadeIn(3000, function() {
       $(".three").fadeIn(3000, function () {
         $(".four").fadeIn(3000, function () {
           $(".five").fadeIn(3000, function () {
