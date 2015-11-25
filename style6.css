@@ -1,0 +1,35 @@
+body {
+  background-image: url("escheresque_ste.png");
+}
+
+.scientist {
+  border: 5px;
+  border-style: solid;
+  border-color: #FBFAE6;
+  border-radius: 50%;
+  height: 500px;
+  width:400px;
+  background-image: url("11246298954_ee6559e6b9.jpg");
+  background-position: bottom;
+  margin-top: 100px;
+  margin-left: 100px;
+  display:inline-block;
+}
+
+h1 {
+  float: right;
+  margin-top: -277px;
+  margin-right: ;
+  font-family: 'Fredericka the Great';
+  font-size: 45px;
+  color: #FBFAE6;
+}
+
+h3 {
+  float: right;
+  margin-top: 125px;
+  margin-right: 154px;
+  font-family: 'Marck Script';
+  font-size: 30px;
+  color: #FBFAE6;
+}

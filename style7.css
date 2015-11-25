@@ -1,0 +1,43 @@
+body {
+  background-image: url("escheresque_ste.png");
+}
+
+.ether {
+  border: 5px;
+  border-style: solid;
+  border-color: #FBFAE6;
+  border-radius: 50%;
+  height: 395px;
+  width: 395px;
+  background-image: url("11292565783_aa9928174c.jpg");
+  background-position: bottom;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  margin-top: 114px;
+  margin-right: -421px;
+  margin-left: 277px;
+  font-family: 'Fredericka the Great';
+  font-size: 50px;
+  color: #FBFAE6;
+}
+
+.suddenly {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 75px;
+  font-family: 'Marck Script';
+  font-size: 30px;
+  color: #FBFAE6;
+}
+
+.step {
+  float: right;
+  margin-top: 450px;
+  margin-right: 104px;
+  font-family: 'Marck Script';
+  font-size: 30px;
+  color: #FBFAE6;
+}

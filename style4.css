@@ -2,7 +2,7 @@ body {
   background-image: url("escheresque_ste.png");
 }
 
-div {
+.witch {
   border: 5px;
   border-style: solid;
   border-color: #FBFAE6;
